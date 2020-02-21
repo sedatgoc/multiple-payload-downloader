@@ -5,4 +5,4 @@ Multiple Payload Downloader for SAP Process Orchestration.
 
 Please read blog post for more details:
 
-https://blogs.sap.com/2020/01/01/multiple-payload-downloader/
+https://blogs.sap.com/2020/01/07/multiple-payload-downloader/
